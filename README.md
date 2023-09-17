@@ -10,7 +10,7 @@ This is a basic clone of the google homepage.
 
 You can view the live demo of this project [here](https://ggab13.github.io/google-homepage/).
 
-### Built With
+## Built With
 
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
