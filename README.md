@@ -8,7 +8,7 @@ This is a basic clone of the google homepage.
 
   It serves as a simple demonstration of HTML and CSS skills.
 
-You can view the live demo of this project [--> Here <--](https://ggab13.github.io/google-homepage/).
+You can view the live demo of this project [--> Here <--](https://ggab13.github.io/google-homepage/)
 
 ## Built With
 
