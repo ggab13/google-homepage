@@ -15,9 +15,13 @@ You can view the live demo of this project [here](https://ggab13.github.io/googl
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
-1. - git clone https://github.com/ggab13/google-homepage.git
-2. - cd google-homepage
+  
+1. - ```sh
+  git clone https://github.com/ggab13/google-homepage.git
+   ```
+2. - ```sh
+cd google-homepage
+ ```
 3. - Open the index.html file in your web browser to view the Google homepage clone.
 
 <!-- CONTACT -->
