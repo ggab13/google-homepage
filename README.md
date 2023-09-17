@@ -2,6 +2,7 @@
 <!-- ABOUT THE PROJECT -->
 ### Google Homepage
 ![google](https://github.com/ggab13/google-homepage/assets/67071512/38175363-7991-4714-97e6-1f9bdf8e441c)
+## Description
 
 This is a basic clone of the google homepage.
 
