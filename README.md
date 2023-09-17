@@ -15,7 +15,7 @@ You can view the live demo of this project [here](https://ggab13.github.io/googl
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Installation
   
 1. - Clone the repo
  ```sh
