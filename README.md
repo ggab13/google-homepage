@@ -7,10 +7,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## Google Homepage
 
@@ -24,10 +20,6 @@ You can view the live demo of this project [here](https://ggab13.github.io/googl
 ### Built With
 
 HTML, CSS [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
-
-
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -65,17 +57,10 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-
-
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-
-
 
 <!-- CONTACT -->
 ## Contact
@@ -84,7 +69,6 @@ Gubán Gábor  - gab95or@gmail.com
 Project Link: [https://github.com/ggab13/google-homepage]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
