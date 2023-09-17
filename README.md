@@ -27,16 +27,7 @@ cd google-homepage
  ```
 3. - Open the index.html file in your web browser to view the Google homepage clone.
 
-<!-- CONTACT -->
-## Contact
-
-Gubán Gábor  - gab95or@gmail.com
-Project Link: [https://github.com/ggab13/google-homepage]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-[product-screenshot]: images/screenshot.png
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
 
